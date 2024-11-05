@@ -1,5 +1,5 @@
 # pandas-challenge
-An analysis on 14 different schools through calculating aggregates, averages, and percentages to highlight apparent trends in school performance. 
+In this section, we perform an analysis on 14 different schools by calculating aggregates, averages, and percentages to highlight apparent trends in school performance. 
 
 Tools: 
 - Juptyer Notebooks
